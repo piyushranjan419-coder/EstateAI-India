@@ -1,4 +1,6 @@
-# EstateAI India – House Price Prediction
+# 🏠 EstateAI India – House Price Prediction
+
+🚀 **[Click Here to View Live Website](https://piyushranjan419-coder-estateai-india-app-tytslm.streamlit.app/)**
 
 An AI/ML-based project that predicts residential property prices in India using machine learning.
 
@@ -26,30 +28,22 @@ An AI/ML-based project that predicts residential property prices in India using 
 - Mean Absolute Error (MAE): 25.09 Lakhs
 - R² Score: 60.56%
 
+## Dataset
+The Indian housing dataset is included in the `data/` folder.
+
 ## How to Run
 
-1. Install dependencies:
+1. Clone the repository:
+
+   `git clone https://github.com/piyushranjan419-coder/EstateAI-India.git`
+
+2. Install dependencies:
 
    `pip install -r requirements.txt`
-
-2. Train the model:
-
-   `python src/train_extra_trees.py`
 
 3. Start the application:
 
    `streamlit run app.py`
 
-## Dataset
-The dataset is not included in this repository. Place your dataset files in the `data/` folder before running the training scripts.
-
-
-# 🏠 EstateAI India – House Price Prediction
-
-🚀 **[Click Here to View Live Website](https://piyushranjan419-coder-estateai-india-app-tytslm.streamlit.app/)**
-
-An AI/ML-based web application that predicts Indian property prices using machine learning.
-
-
 ## Author
-Piyush Ranjan
+**Piyush Ranjan**
