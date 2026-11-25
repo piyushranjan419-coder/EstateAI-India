@@ -43,5 +43,13 @@ An AI/ML-based project that predicts residential property prices in India using 
 ## Dataset
 The dataset is not included in this repository. Place your dataset files in the `data/` folder before running the training scripts.
 
+
+# 🏠 EstateAI India – House Price Prediction
+
+🚀 **[Click Here to View Live Website](https://piyushranjan419-coder-estateai-india-app-tytslm.streamlit.app/)**
+
+An AI/ML-based web application that predicts Indian property prices using machine learning.
+
+
 ## Author
 Piyush Ranjan
