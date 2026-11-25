@@ -52,6 +52,6 @@ print("\nExtra Trees Training Completed!")
 print("MAE:", round(mae, 2), "Lakhs")
 print("R2 Score:", round(r2 * 100, 2), "%")
 
-joblib.dump(model, "models/extra_trees_model.pkl")
+joblib.dump(model, "models/extra_trees_model.pkl", compress=3)
 
 print("\nExtra Trees Model Saved Successfully!")
